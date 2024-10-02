@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vi
 
 ### Video Tutorial
 
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Watch the video](https://cdn.njav.tv/images/5/35/sone-054/thumb_h.jpg?t=1707459019)](https://javplayer.me/e/2DM03EO2)
 
 ---
 
