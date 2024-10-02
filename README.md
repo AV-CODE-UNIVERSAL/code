@@ -2,7 +2,7 @@
 
 ![My Project Image](https://via.placeholder.com/800x400.png?text=Your+Image+Here)
 
-[![Join Telegram Channel](https://img.shields.io/badge/Join%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_CHANNEL_NAME)
+[![Join Telegram Channel](https://img.shields.io/badge/Join%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_CHANNEL_NAME)  
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
 
 ---
@@ -34,4 +34,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Follow us on**:  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_PROFILE) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_PROFILE)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
